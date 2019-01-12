@@ -5,9 +5,6 @@
     "repository": "https://github.com/S-H-GAMELINKS/iron_vue",
     "buildpacks": [
       {
-        "url": "heroku/nodejs"
-      },
-      {
         "url": "https://github.com/emk/heroku-buildpack-rust.git"
       }
     ],
